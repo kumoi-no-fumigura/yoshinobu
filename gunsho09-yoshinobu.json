@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yoshinobu",
  "yomi": "よしのぶあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "大中臣能宣（921〜991）",
+  "desc": "梨壺の五人の一人、大中臣能宣の家集。小野宮太政大臣の七十賀の屏風歌に始まり、屏風歌や贈答を多く収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -940,6 +945,6 @@
   "poems": 80,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
